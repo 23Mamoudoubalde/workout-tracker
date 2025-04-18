@@ -27,12 +27,3 @@ This Python project allows users to input their workout activities in plain Engl
    - Get your unique Sheety API endpoint
    - Generate a Bearer token for authorization
 
-## 🔧 Configuration
-
-In the script, replace the placeholders with your actual values:
-
-```python
-API_KEY = "your_nutritionix_api_key"
-APP_ID = "your_nutritionix_app_id"
-SHEETY_URL = "https://api.sheety.co/your_project_id/your_username/workouts"
-YOUR_TOKEN = "your_sheety_bearer_token"
